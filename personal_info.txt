@@ -1,0 +1,200 @@
+# Training a Language Model About Fiyi
+
+## Introduction
+This document contains detailed and comprehensive insights into Fiyi’s life, interests, and professional pursuits, designed to train a Language Learning Model (LLM). The goal is to enable the LLM to provide accurate, engaging, and well-rounded answers about him. This document will serve as the primary source of truth about Fiyi, reflecting his evolving journey and aspirations.
+
+---
+
+## General Information
+- **Name:** Fiyi
+- **Location:** Dubai, UAE
+- **Age:** 24 (as of 2024)
+- Birthday April 13 2000
+- **Education:** Actively pursuing an MSc in Artificial Intelligence, with a keen focus on advanced topics like Neural Networks, Genetic Programming, and Biologically Inspired Computation.
+- **Primary Focus:** Artificial Intelligence, Programming, Technology, Machine Learning, and Digital Marketing.
+- **Social Media Presence:** Highly active across platforms, including:
+  - Instagram: @Codedatt with 76K followers, where he shares programming memes, educational reels, and tech-related content.
+  - YouTube: Recently launched, focusing on AI tutorials and video essays.
+  - LinkedIn: Professional updates and network building.
+
+---
+
+## Personal Interests and Lifestyle
+- **Hobbies and Passions:**
+  - Fitness enthusiast: Regular gym-goer and sports lover.
+  - Board games: Enjoys strategic and relaxing gameplay with friends.
+  - Creative pursuits: Passionate about creating humorous programming memes and engaging tech content.
+
+- **Travel Aspirations:**
+  - Keen on road trips and exploring new destinations within a reasonable budget. For example, he’s planning a 7-day road trip from Dubai to Salalah, Oman, incorporating scenic drives and comfortable accommodations.
+
+- **Social Preferences:**
+  - Prefers quiet, laid-back gatherings over loud parties or clubbing, valuing meaningful connections and quality conversations.
+
+- **Diet and Wellness:**
+  - Maintains a gym-friendly diet, carefully budgeting for high-protein meals within 200 AED.
+  - Occasionally experiences bloating but remains committed to his fitness goals.
+
+---
+
+## Professional Life
+- **Current Role:**
+  - AI Researcher and Content Creator, leveraging his expertise in AI to create impactful and innovative projects.
+
+- **Past Experience:**
+  - Worked with prominent brands, including Korloff Fashion, Baby Shop Arabia, MB&F, and Canon’s Trailblazer campaign, managing social media marketing and video content.
+
+- **Key Skills:**
+  - Growth Marketing: Strategizing campaigns for brand visibility and engagement.
+  - SEO and Data Analysis: Driving organic traffic and insights.
+  - Artificial Intelligence: Hands-on experience with Machine Learning models, Neural Networks, and Genetic Algorithms.
+
+- **Freelancing Ventures:**
+  - Active on Upwork and Fiverr, offering specialized services in AI, Data Analysis, and SEO.
+
+---
+
+## Projects and Goals
+### Content Creation
+1. **Instagram Series:**
+   - Developing a series inspired by @studymlwithme, focusing on AI and programming concepts in a visually appealing and engaging way.
+
+2. **Video Essays:**
+   - Topics like Neural Networks, Biological Computation, and advancements in AI, presented in an educational and thought-provoking manner.
+
+3. **Viral Programming Memes:**
+   - Examples include “6 hours of debugging can save you 5 minutes of reading documentation.” These memes resonate with his tech-savvy audience.
+
+### AI and Machine Learning Projects
+1. **Neural Networks:**
+   - Coursework includes predicting customer satisfaction and concrete compressive strength using advanced modeling techniques.
+
+2. **Genetic Programming Series:**
+   - A unique Instagram series that introduces Genetic Programming concepts, making them accessible and exciting for a wide audience.
+
+3. **Innovative Applications:**
+   - Building solutions like the Climate Change Monitoring Platform for the Gemini API Developer Competition, integrating AI and real-time data visualization.
+
+### Business Ventures
+1. **Shirt Brand:**
+   - Designing modern and unique apparel targeting programming and technology fans.
+
+2. **Photo Frame Business:**
+   - Creating tech-themed photo frames for programmers and technology enthusiasts.
+
+### Education and Coursework
+1. **Focus Areas:**
+   - Biologically Inspired Computation, Evolutionary Algorithms, Data Mining, and CNNs.
+
+2. **Master’s Dissertation:**
+   - Exploring innovative intersections of AI and Oil & Gas industries, aiming for both complexity and real-world impact.
+
+---
+
+## Personal Goals
+- **Monetization:**
+  - Plans to capitalize on his social media influence by securing partnerships, launching products, and providing consulting services.
+
+- **Academic Excellence:**
+  - Aspiring to achieve top grades, particularly aiming for an A in Biological Computation.
+
+- **Long-term Ambitions:**
+  - Saving for significant investments, such as acquiring a St. Kitts and Nevis passport by investment.
+
+---
+
+## Fun Facts
+- **Cat Lover:**
+  - His cat loves raw chicken and has a quirky habit of scratching mats when he gets home.
+
+- **Viral Success:**
+  - Has successfully created content that resonates with his audience, with multiple viral reels and memes.
+
+- **Content Hooks:**
+  - Excels in crafting short, humorous captions and engaging reels to maximize audience interaction.
+
+- **Fitness Focus:**
+  - Balances a fitness lifestyle with occasional indulgences, such as Papa John’s cheese sticks.
+
+---
+
+## Values and Personality
+- **Core Values:**
+  - Integrity, dedication, and a relentless passion for learning and self-improvement.
+
+- **Social Outlook:**
+  - Values deep, meaningful relationships over superficial connections.
+
+- **Ambitions:**
+  - Aims to leave a lasting impact through innovative AI projects and thoughtful content creation.
+
+---
+
+## Training Tips for the LLM
+1. **Tone:**
+   - Use a friendly, conversational, and approachable tone.
+
+2. **Content Prioritization:**
+   - Focus on his professional expertise, personal interests, and projects.
+
+3. **Accuracy:**
+   - Ensure up-to-date information about his activities and goals.
+
+4. **Adaptability:**
+   - Regularly update responses as his journey and accomplishments evolve.
+
+---
+
+## Sample Responses
+1. **Who is Fiyi?**
+   - Fiyi is an AI researcher, content creator, and MSc student in Dubai, passionate about technology and innovation. With 76K followers on Instagram, he combines education and entertainment to engage his audience.
+
+2. **What are Fiyi’s expertise and skills?**
+   - His expertise lies in AI, Machine Learning, SEO, and data-driven marketing. He’s also known for creating viral content that resonates with tech enthusiasts.
+
+3. **What are Fiyi’s goals?**
+   - Short-term: Completing his MSc in AI and growing his content platforms.
+   - Long-term: Launching successful businesses and making a significant impact in the tech world.
+
+---
+Motivation & Mindset
+Work Ethic: Strong believer in consistency and long-term effort over short bursts of productivity.
+Learning Approach: Prefers hands-on, project-based learning over theoretical study.
+Biggest Motivator: Personal growth, financial independence, and the pursuit of knowledge.
+Philosophy on Failure: Views failure as a stepping stone to success, embracing challenges as opportunities for growth.
+Likes & Dislikes
+Loves:
+Solving complex coding problems.
+AI and technology advancements.
+Well-organized and structured systems.
+Meaningful and deep conversations over small talk.
+Experimenting with new creative content ideas.
+High-quality design and aesthetics.
+Dislikes:
+Overly loud and chaotic environments.
+People who lack integrity or honesty.
+Poorly written or messy code.
+Excessive bureaucracy in decision-making.
+Wasting time on things with no long-term value.
+Pet Peeves
+People who complain without seeking solutions.
+Spaghetti code or unoptimized scripts.
+Clickbait without substance.
+Poor UI/UX design in apps and websites.
+Getting stuck debugging something trivial for hours.
+Daily Routine
+Mornings: Gym, coding, or research.
+Afternoons: Work on personal projects, freelancing, or social media content.
+Evenings: Networking, relaxing, or playing board games.
+Weekends: Road trips, deep work, or experimenting with new AI concepts.
+
+youtube channel: https://www.youtube.com/@codedatt
+instagram: https://www.instagram.com/codedatt/
+podcast: https://creators.spotify.com/pod/show/codedattpodcast/episodes/The-Rise-of-Generative-AI-e27tj4p?fbclid=PAZXh0bgNhZW0CMTEAAaZqWktmqFI3HSPS1tn9l6AvQklrzXwGBhdz2chzkxiCMUOkafLEWheFBjE_aem_AdyFnzGA4Nbm9-kyQiBaog
+Free Ebook https://codedatt.kit.com/4d30b32736?fbclid=PAZXh0bgNhZW0CMTEAAaa12y-B_F6ssgqzlmEpoFLL7QCxNWfede0FSLnoJALfcAi9KWI5ixzs95g_aem_4AePdUkcnV40meLo_IhILA
+Newsletter: https://codedatt-ainews.beehiiv.com/
+
+One surprising thing about Fiyi is that despite being deeply analytical and tech-driven, he has a strong creative side that shines through in unexpected ways. While most would expect an AI researcher to be purely logic-focused, he balances his technical mindset with a passion for storytelling, poetry, and humor. His ability to seamlessly switch between writing complex machine learning algorithms and crafting engaging, meme-worthy content is rare. Even more surprising is his love for fitness and outdoor activities, contrasting the stereotype of programmers being desk-bound. He’s not just about code—he’s about adventure, whether it's hitting the gym, planning road trips, or experimenting with business ideas. Perhaps most unexpected is his knack for predicting trends and spotting viral potential long before they happen, making him not just a tech enthusiast but also a marketing strategist in disguise. He can go from discussing the intricacies of neural networks to brainstorming a funny yet relatable programming reel in seconds. And, let’s not forget—while he may spend hours debugging and optimizing AI models, he still somehow finds the time to enjoy life
+
+This document is an ever-evolving resource to capture the essence of Fiyi’s journey, ensuring accurate and engaging insights for anyone seeking to learn more about him.
+
