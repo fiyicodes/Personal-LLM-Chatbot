@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
         .chat-container {
-            height: calc(100vh - 300px);
+            height: calc(100vh - 320px);
         }
         .message {
             max-width: 70%;
@@ -33,19 +33,37 @@
         @keyframes blink {
             50% { opacity: 0; }
         }
+        .social-links {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 12px;
+            padding: 8px;
+        }
         .social-links a {
             color: #3b82f6;
-            transition: color 0.2s;
+            transition: all 0.2s;
+            padding: 8px 12px;
+            border-radius: 20px;
+            background-color: #f0f9ff;
+            min-width: 120px;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
         }
         .social-links a:hover {
             color: #2563eb;
+            background-color: #e1f2ff;
+            transform: translateY(-2px);
         }
         .personality-tags {
             display: flex;
             flex-wrap: wrap;
             gap: 8px;
             justify-content: center;
-            margin-top: 12px;
+            margin: 12px 4px;
+            padding: 0 8px;
         }
         .personality-tag {
             background-color: #f0f9ff;
@@ -53,15 +71,35 @@
             padding: 4px 12px;
             border-radius: 20px;
             font-size: 0.9rem;
+            white-space: nowrap;
+        }
+        @media (max-width: 640px) {
+            .chat-container {
+                height: calc(100vh - 360px);
+            }
+            .social-links {
+                gap: 8px;
+            }
+            .social-links a {
+                min-width: calc(50% - 16px);
+                font-size: 0.9rem;
+            }
+            .personality-tags {
+                gap: 6px;
+            }
+            .personality-tag {
+                font-size: 0.8rem;
+                padding: 4px 10px;
+            }
         }
     </style>
 </head>
 <body class="bg-gray-100">
-    <div class="container mx-auto px-4 py-8">
+    <div class="container mx-auto px-4 py-6">
         <div class="max-w-3xl mx-auto bg-white rounded-lg shadow-lg">
-            <div class="p-6 border-b border-gray-200">
-                <h1 class="text-3xl font-bold text-center text-blue-600">Chat with Fiyi</h1>
-                <p class="text-center text-gray-600 mt-4">
+            <div class="p-4 sm:p-6 border-b border-gray-200">
+                <h1 class="text-2xl sm:text-3xl font-bold text-center text-blue-600">Chat with Fiyi</h1>
+                <p class="text-center text-gray-600 mt-4 px-2">
                     👋 Hi! I'm Fiyi's personal AI assistant. Get to know the man who seamlessly blends AI research with creative content creation. 
                     From writing neural networks to crafting viral memes, he breaks the typical tech stereotypes!
                 </p>
@@ -72,17 +110,17 @@
                     <span class="personality-tag">✍️ Content Creator</span>
                     <span class="personality-tag">🚀 Trend Predictor</span>
                 </div>
-                <div class="social-links flex justify-center space-x-6 mt-4">
-                    <a href="https://www.instagram.com/codedatt/" target="_blank" class="flex items-center">
-                        <i class="fab fa-instagram mr-2"></i>@codedatt
+                <div class="social-links">
+                    <a href="https://www.instagram.com/codedatt/" target="_blank">
+                        <i class="fab fa-instagram mr-2"></i>Instagram
                     </a>
-                    <a href="https://www.youtube.com/@codedatt" target="_blank" class="flex items-center">
+                    <a href="https://www.youtube.com/@codedatt" target="_blank">
                         <i class="fab fa-youtube mr-2"></i>YouTube
                     </a>
-                    <a href="https://creators.spotify.com/pod/show/codedattpodcast" target="_blank" class="flex items-center">
+                    <a href="https://creators.spotify.com/pod/show/codedattpodcast" target="_blank">
                         <i class="fab fa-spotify mr-2"></i>Podcast
                     </a>
-                    <a href="https://codedatt-ainews.beehiiv.com/" target="_blank" class="flex items-center">
+                    <a href="https://codedatt-ainews.beehiiv.com/" target="_blank">
                         <i class="fas fa-newspaper mr-2"></i>Newsletter
                     </a>
                 </div>
