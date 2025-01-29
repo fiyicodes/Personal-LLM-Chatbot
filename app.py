@@ -3,8 +3,9 @@ import openai
 import os
 from dotenv import load_dotenv
 
-# Load environment variables
-load_dotenv()
+# Load environment variables only in development
+if os.path.exists('.env'):
+    load_dotenv()
 
 app = Flask(__name__)
 
@@ -54,4 +55,6 @@ def chat():
         return jsonify({"error": str(e)}), 500
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    # Use environment variable for port if available (for production)
+    port = int(os.environ.get('PORT', 5000))
+    app.run(host='0.0.0.0', port=port)
